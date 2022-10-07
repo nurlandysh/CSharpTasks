@@ -1,0 +1,15 @@
+/Users/ilfatsh/Desktop/3/bin/Debug/net6.0/3
+/Users/ilfatsh/Desktop/3/bin/Debug/net6.0/3.deps.json
+/Users/ilfatsh/Desktop/3/bin/Debug/net6.0/3.runtimeconfig.json
+/Users/ilfatsh/Desktop/3/bin/Debug/net6.0/3.dll
+/Users/ilfatsh/Desktop/3/bin/Debug/net6.0/3.pdb
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.csproj.AssemblyReference.cache
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.AssemblyInfoInputs.cache
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.AssemblyInfo.cs
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.csproj.CoreCompileInputs.cache
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.dll
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/refint/3.dll
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.pdb
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.genruntimeconfig.cache
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/ref/3.dll

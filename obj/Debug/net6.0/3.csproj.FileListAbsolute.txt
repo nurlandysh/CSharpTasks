@@ -1,0 +1,5 @@
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.csproj.AssemblyReference.cache
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.AssemblyInfoInputs.cache
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.AssemblyInfo.cs
+/Users/ilfatsh/Desktop/3/obj/Debug/net6.0/3.csproj.CoreCompileInputs.cache
