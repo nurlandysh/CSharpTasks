@@ -6,9 +6,9 @@ Console.WriteLine("Введите число");
 int a = int.Parse(Console.ReadLine()!);
 if (a % 2 == 0)
 {
-    Console.Write("Этр число четное");
+    Console.Write("Этр число четное!");
 }
 else
 {
-    Console.Write("число нечетное");
+    Console.Write("число нечетное!");
 }
